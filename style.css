@@ -1,0 +1,28 @@
+header {
+    background-color: green;
+    width: 100%;
+    margin-top: 20px;
+    padding: 30px;
+}
+
+.container {
+    max-width: 960px;
+    margin: 30px;
+}
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: #777777;
+    width: 960px;
+    font-size: 18px;
+}
+
+.top {
+    margin: 20px;
+    padding: 0;
+    width: 100%;
+    background-color: blue;
+}
+
+
+
+
